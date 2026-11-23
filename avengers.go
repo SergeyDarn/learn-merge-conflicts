@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func getAvenger() string {
-	return "Spider-man"
+	return "Doctor Strange"
 }
 
 func main() {
